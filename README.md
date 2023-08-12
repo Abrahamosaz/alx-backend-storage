@@ -1,2 +1,1 @@
-# alx-backend-storage
-alx-storage repository
+alx-storage system

@@ -1,1 +1,1 @@
-redis basics
+basic to redis database
